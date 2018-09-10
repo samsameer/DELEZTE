@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">POS</string>
+    <string name="library">Library</string>
+    <string name="all_discounts">All Discounts</string>
+    <string name="all_items">All Items</string>
+    <string name="shopping_cart">Shopping Cart</string>
+</resources>
